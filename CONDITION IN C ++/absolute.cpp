@@ -6,6 +6,6 @@ int main()
     cout<<"Enter the number ";
     cin>>n;
     n=abs(n);
-    cout<<"absolute value"<<n;
+    cout<<"absolute value "<<n;
 
 }
