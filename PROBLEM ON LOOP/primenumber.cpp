@@ -14,11 +14,11 @@ int main()
     }
         if(count==2)
         
-            cout<<"it is a prime number";
+            cout<<"it is a prime number value ";
         
         
         else
-            cout<<"it is not a prime number";
+            cout<<"it is not a prime number value ";
     
         
     

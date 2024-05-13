@@ -11,12 +11,12 @@ int main()
     perimeter=2*length+breadth;
     if(area>perimeter)
     {
-        cout<<"area is greater "<<endl;
+        cout<<"area is greaterthan "<<endl;
 
     }
     else
     {
-        cout<<"perimeter is greater "<<endl; 
+        cout<<"perimeter is greaterthan "<<endl; 
     }
     return 0;
     
